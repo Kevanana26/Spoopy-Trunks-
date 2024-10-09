@@ -1,13 +1,6 @@
 
 /*Spoopy Ghost Start M'kay*/
 body{
-    overflow: hidden;
-    height:100vh;
-    width:100vw;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
     background: #542f6f;
 }
 
