@@ -4,13 +4,7 @@ body{
     background: #542f6f;
 }
 
-#container{
-width: 400px;
-height: 400px;
-padding: 0;
-box-sizing: border-box;
-background: #542f6f;
-}
+
 
 :after,
 :before{
